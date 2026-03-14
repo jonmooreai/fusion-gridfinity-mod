@@ -2,6 +2,10 @@
 
 Based on [FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) by [Le0Michine](https://github.com/Le0Michine).
 
+<video src="fusion-plugin.mp4" controls width="640"></video>
+
+![Gridfinity baseplate plugin](screenshot.png)
+
 This mod adds two main changes on top of the original plugin:
 
 ## Generate baseplate from drawer dimensions
