@@ -14,7 +14,7 @@ DEBUG = True
 # This is used when defining unique internal names for various UI elements 
 # that need a unique name. It's also recommended to use a company name as 
 # part of the ID to better ensure the ID is unique.
-ADDIN_NAME = 'GridfinityGenerator'
+ADDIN_NAME = 'GridfinityGeneratorMod'
 COMPANY_NAME = 'LevMishin'
 
 # Palettes

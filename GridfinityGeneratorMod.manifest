@@ -1,10 +1,10 @@
 {
 	"autodeskProduct":	"Fusion360",
 	"type":	"addin",
-	"id":	"bbbd3c0a-34f1-4bcf-b9f9-accd46c35cd0",
+	"id":	"a1b2c3d4-e5f6-7890-abcd-ef1234567890",
 	"author":	"LevMishin",
 	"description":	{
-		"":	""
+		"":	"Gridfinity baseplate and bin generator (mod: drawer/print plate sizing)"
 	},
 	"version":	"1.4.2.0",
 	"runOnStartup":	true,

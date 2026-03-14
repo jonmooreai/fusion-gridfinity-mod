@@ -17,7 +17,7 @@ def stop(context):
         # Remove all of the event handlers your app has created
         futil.clear_handlers()
 
-        # This will run the start function in each of your commands as defined in commands/__init__.py
+        # This will run the stop function in each of your commands as defined in commands/__init__.py
         commands.stop()
 
     except:
